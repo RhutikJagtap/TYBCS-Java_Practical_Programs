@@ -1,0 +1,14 @@
+a) Write a Java program to create a Package “SY” which has a class SYMarks (members – ComputerTotal, MathsTotal, and ElectronicsTotal). Create another package TY which has a class TYMarks (members – Theory, Practicals). Create n objects of Student class (having rollNumber, name, SYMarks and TYMarks). Add the marks of SY and TY computer subjects and calculate the Grade (‘A’ for >= 70, ‘B’ for >= 60 ‘C’ for >= 50 , Pass Class for > =40 else ‘FAIL’) and display the result of the student in proper format. (Use code Student.java)
+
+1]First of all u have to create a package as name SY (i.e you have to create one folder named as SY) in this folder save the program SYMarks.java and then compile this program in same directory as javac SYMarks.java and then java SYMarks.(Use program SYMarks.java)
+
+2]And then you have to create second  package as name TY (i.e you have to create one folder named as TY) in this folder save the program TYMarks.java and then compile this program in same directory as javac TYMarks.java and then java TYMarks.(Use program TYMarks.java).
+
+3] After creating this packages u have to save the main student program as
+i]   Student.java
+ii]Run the code as
+iii] javac Student.java
+iv] java Student
+v]Then insert the values as per asked in the program.
+
+{Note : Your Student.java program and SY Package & TY Package folders are in Same folder }.
