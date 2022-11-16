@@ -1,5 +1,8 @@
 /*Set A
-b.Define Student class(roll_no, name, percentage) to create n objects of the Student class. Accept details from the user for each object. Define a static method "sortStudent" which sorts the array on the basis of percentage.
+b.Define Student class(roll_no, name, percentage) to create n objects of the Student class.
+Accept details from the user for each object.
+Define a static method "sortStudent" which sorts the array on the basis of percentage.
+@Code by Rj
 */
 import java.util.*;
 
@@ -75,3 +78,5 @@ public class studentsort {
         sc.close();
     }// main
 }// class
+
+// @Code by Rj
