@@ -1,6 +1,8 @@
 /*Set A-a)using javap,view the methods of the following classes from the lang package
 java.lang.object,java.lang.string and java.util.scanner. and also compile sample programm.
- type the command and view the bytecodes. javap -c Myclass*/
+ type the command and view the bytecodes. javap -c Myclass
+ @Code by Rj
+ */
 public class Myclass {
     int num;
     public Myclass()
@@ -25,6 +27,7 @@ public class Myclass {
     else
     System.out.println("Insufficient arguments");
    }
-
 }
+// @Code by Rj
+
 
