@@ -4,6 +4,7 @@ i. Addition
 ii. Multiplication
 iii. Transpose of any matrix.
 iv. Exit
+@Code by Rj
 */
 
 import java.util.Scanner;
@@ -149,4 +150,4 @@ public class MenuMatrix {
         sc.close();
     }
 }
-@Code by Rj
+// @Code by Rj
