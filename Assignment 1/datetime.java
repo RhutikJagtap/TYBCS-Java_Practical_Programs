@@ -1,4 +1,5 @@
-//Set B-a)Program to display the system date and time in various format shown below:
+//Set B-a)Program to display the system date and time in various format shown below:@Code by Rj
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
@@ -42,3 +43,5 @@ class datetime {
         System.out.println("Current day of the year: " + strDate);
     }
 }
+// @Code by Rj
+
