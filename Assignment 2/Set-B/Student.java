@@ -1,6 +1,10 @@
 /*Set B
-a) Write a Java program to create a Package “SY” which has a class SYMarks (members – ComputerTotal, MathsTotal, and ElectronicsTotal). Create another package TY which has a class TYMarks (members – Theory, Practicals). Create n objects of Student class (having rollNumber, name, SYMarks and TYMarks). Add the marks of SY and TY computer subjects and calculate the Grade (‘A’ for >= 70, ‘B’ for >= 60 ‘C’ for >= 50 ,
+a) Write a Java program to create a Package “SY” which has a class SYMarks (members – ComputerTotal, MathsTotal, and ElectronicsTotal).
+Create another package TY which has a class TYMarks (members – Theory, Practicals).
+Create n objects of Student class (having rollNumber, name, SYMarks and TYMarks). 
+Add the marks of SY and TY computer subjects and calculate the Grade (‘A’ for >= 70, ‘B’ for >= 60 ‘C’ for >= 50 ,
 */
+
 import java.util.Scanner;
 
 import SY.SYMarks;
@@ -80,3 +84,5 @@ public class Student {
         sc.close();
     }
 }
+
+// @Code by RJ
