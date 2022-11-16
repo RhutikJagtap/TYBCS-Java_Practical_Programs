@@ -1,4 +1,6 @@
-//Set A-d) Aprogramm to accept the array element and display in reverse order
+/*Set A-d) Aprogramm to accept the array element and display in reverse order
+@Code by Rj
+*/
 import java.util.*;
 public class array {
     public static void main(String args[]) {
@@ -23,5 +25,6 @@ public class array {
 
     }
 }
+// @Code by Rj
 
 
