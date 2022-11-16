@@ -1,4 +1,5 @@
-//Set A-b)  programm to calculate and area of rectangle
+//Set A-b)  programm to calculate and area of rectangle @Code by Rj
+
  import java.util.*;
 class rectangle {
     public static void main(String[] args) 
@@ -15,3 +16,4 @@ class rectangle {
 
     }
 }
+// @Code by Rj
