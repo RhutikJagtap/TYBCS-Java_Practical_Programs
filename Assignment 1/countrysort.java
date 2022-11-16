@@ -1,6 +1,7 @@
 /*
 Set C
 a) Write a program to accept n names of country and display them in descending order.
+@Code by Rj
 */
 import java.util.*;
 
@@ -36,3 +37,4 @@ public class countrysort {
         sc.close();
     }
 }
+// @Code by Rj
