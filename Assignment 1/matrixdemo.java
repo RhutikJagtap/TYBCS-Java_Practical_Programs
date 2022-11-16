@@ -2,7 +2,9 @@
 i)Sum of Diagonal Elements
 ii)Sum of Upper Diagonal Elements
 iii)Sum of Lower Diagonal Elements
-iv)Exit*/
+iv)Exit
+@Code by Rj
+*/
 import java.util.*;
 
 public class matrixdemo {
@@ -82,3 +84,4 @@ public class matrixdemo {
 
     }
 }
+// @Code by Rj
