@@ -1,0 +1,15 @@
+a) Write a package for String operation which has two classes Con and Comp. Con class has to concatenates two strings and comp class compares two strings. Also display proper message on execution.
+(Use code Demo.java)
+
+i]Create a package as ConComp  (i.e you have to create one folder named as ConComp) in this folder save the program con1.java and then compile this program in same directory as javac con1.java and then java con1 (Use program con1.java).
+
+a]In the same package you have to save second program as  com1.java and then compile this program in same directory as javac com1.java and then java com1 (Use program com1.java).
+
+3] After creating this package u have to save the main String program as
+i]  Demo.java
+ii]Run the code as
+iii] javac Demo.java
+iv] java Demo
+v]Then insert the values as per asked in the program.
+{Note : Your Demo.java program and ConComp Package  folder are in Same folder }.
+
